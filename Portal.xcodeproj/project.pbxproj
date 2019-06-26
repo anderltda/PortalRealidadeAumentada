@@ -15,6 +15,7 @@
 		DF1C2F5B22C4297B00263467 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF1C2F5922C4297B00263467 /* LaunchScreen.storyboard */; };
 		DF1C2F6622C4297B00263467 /* PortalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1C2F6522C4297B00263467 /* PortalTests.swift */; };
 		DF1C2F7122C4297B00263467 /* PortalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1C2F7022C4297B00263467 /* PortalUITests.swift */; };
+		DF1C2F7F22C42C0500263467 /* portal.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = DF1C2F7E22C42C0500263467 /* portal.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DF1C2F6C22C4297B00263467 /* PortalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PortalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF1C2F7022C4297B00263467 /* PortalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalUITests.swift; sourceTree = "<group>"; };
 		DF1C2F7222C4297B00263467 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF1C2F7E22C42C0500263467 /* portal.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = portal.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		DF1C2F4D22C4297500263467 /* Portal */ = {
 			isa = PBXGroup;
 			children = (
+				DF1C2F7E22C42C0500263467 /* portal.scnassets */,
 				DF1C2F4E22C4297500263467 /* AppDelegate.swift */,
 				DF1C2F5022C4297500263467 /* art.scnassets */,
 				DF1C2F5222C4297500263467 /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF1C2F7F22C42C0500263467 /* portal.scnassets in Resources */,
 				DF1C2F5122C4297500263467 /* art.scnassets in Resources */,
 				DF1C2F5B22C4297B00263467 /* LaunchScreen.storyboard in Resources */,
 				DF1C2F5822C4297B00263467 /* Assets.xcassets in Resources */,
